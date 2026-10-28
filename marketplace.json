@@ -64,11 +64,11 @@
       "strict": false
     },
     {
-      "name": "ai4s-skills-ai4s-agent",
+      "name": "ai4s-skills-agent",
       "description": "Master orchestrator that coordinates the full AI4Science pipeline: research-explorer → literature-survey → experiment-suite → paper-writer.",
       "version": "1.0.0",
       "category": "science",
-      "source": "./skills/ai4s-agent",
+      "source": "./skills/agent",
       "homepage": "https://github.com/CHENDONALD/ai4s-skills",
       "skills": [
         "./"
