@@ -1,6 +1,7 @@
 ---
 name: literature-survey
 description: Use when the user wants a comprehensive literature survey on a specific research topic. Outputs a complete PDF survey (6–20 pages, 60+ real citations, 100+ recommended) with LaTeX source, topic-specific publication figures, and a classified literature table. Single-stage, no Python runtime.
+when_to_use: "文献综述, 文献调研, 文献总结, 写综述, literature survey, literature review, 帮我写综述, 文献梳理, 参考文献"
 ---
 
 # Literature Survey

@@ -1,6 +1,7 @@
 ---
 name: paper-writer
 description: Use when the user wants a complete, publication-grade research paper on a specific topic — produces 200+ real citations, 4–8 publication-grade figures, and 7 sections of substantive prose compiled to PDF in one pass. No skeleton stage.
+when_to_use: "写论文, 写paper, 写研究论文, 写学术论文, 生成论文, 论文写作, paper writing, write paper, research paper, academic paper, 帮我写论文, 写一篇论文"
 ---
 
 # Paper Writer

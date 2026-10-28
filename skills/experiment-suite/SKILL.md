@@ -1,6 +1,7 @@
 ---
 name: experiment-suite
 description: Use when the user has a research question and needs a complete experiment package — design document, runnable code, results (measured or simulated with honest provenance), publication-grade figures, structured report. Single-stage, no Python runtime.
+when_to_use: "实验设计, 实验执行, 实验结果, 实验报告, experiment, run experiment, experiment design, experiment results, 帮我做实验, 运行实验"
 ---
 
 # Experiment Suite

@@ -1,6 +1,7 @@
 ---
 name: agent
 description: Use when the user wants an end-to-end AI4S research pipeline — broad direction or specific topic in, full research package out (exploration + literature survey + experiment + paper). Meta-skill that chains the four downstream skills in order. Pure markdown, no Python runtime.
+when_to_use: "完整研究流程, 端到端研究, 研究流水线, full research pipeline, end-to-end research, AI4S pipeline, 一键研究, 全流程研究"
 ---
 
 # AI4S Agent (meta-skill)

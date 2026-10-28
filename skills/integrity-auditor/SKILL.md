@@ -1,6 +1,7 @@
 ---
 name: integrity-auditor
 description: Use when the user wants a paper audited for integrity issues — image misuse, numerical anomalies, logical gaps — and needs a reviewable evidence report. Works on external papers (PDF / DOI / arXiv) and on outputs from a local paper-writer run. Single-stage skill.
+when_to_use: "诚信审计, 学术不端, 图片检查, 数据检查, integrity audit, academic integrity, image check, data verification, 论文审计, 学术诚信"
 ---
 
 # Integrity Auditor

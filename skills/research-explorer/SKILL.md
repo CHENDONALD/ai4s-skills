@@ -1,6 +1,7 @@
 ---
 name: research-explorer
 description: Use when the user has a vague research direction and wants to explore feasible specific topics. Outputs a structured analysis with candidate topics, innovation/feasibility scoring, and a pre-survey of 20–30 representative works. Single-stage, no Python runtime.
+when_to_use: "研究探索, 选题, 研究方向, 研究话题, 可行性分析, research exploration, topic exploration, research direction, 帮我选题, 研究方向建议"
 ---
 
 # Research Explorer

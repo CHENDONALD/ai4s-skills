@@ -1,6 +1,7 @@
 ---
 name: mindmap-render
 description: Generate beautiful, high-resolution mindmaps from Markdown unordered lists. Outputs interactive HTML, HD PNG, and PDF with colorful branch themes.
+when_to_use: "思维导图, 脑图, 可视化, mindmap, mind map, 生成思维导图, 画脑图, 可视化结构"
 ---
 
 ## When to use this skill
