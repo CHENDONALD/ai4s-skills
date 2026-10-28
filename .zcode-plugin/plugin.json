@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AI4Science end-to-end research pipeline: topic exploration → literature survey → experiment execution → paper writing.",
   "skills": [
-    "./skills/ai4s-agent",
+    "./skills/agent",
     "./skills/experiment-suite",
     "./skills/integrity-auditor",
     "./skills/literature-survey",
