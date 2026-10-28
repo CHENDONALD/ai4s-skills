@@ -1,5 +1,5 @@
 ---
-name: ai4s-agent
+name: agent
 description: Use when the user wants an end-to-end AI4S research pipeline — broad direction or specific topic in, full research package out (exploration + literature survey + experiment + paper). Meta-skill that chains the four downstream skills in order. Pure markdown, no Python runtime.
 ---
 
