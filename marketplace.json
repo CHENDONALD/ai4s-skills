@@ -1,0 +1,103 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai4s-skills",
+  "description": "AI4Science end-to-end research pipeline: topic exploration → literature survey → experiment execution → paper writing. Forked from ai4s-research/ai4s-skills.",
+  "owner": {
+    "name": "CHENDONALD",
+    "url": "https://github.com/CHENDONALD"
+  },
+  "plugins": [
+    {
+      "name": "ai4s-skills",
+      "description": "Installs the full AI4Science toolkit. Registers all 7 skills under the ai4s-skills namespace, callable as /ai4s-skills:paper-writer, /ai4s-skills:research-explorer, etc.",
+      "version": "1.0.0",
+      "category": "science",
+      "source": "./",
+      "homepage": "https://github.com/CHENDONALD/ai4s-skills"
+    },
+    {
+      "name": "ai4s-skills-paper-writer",
+      "description": "End-to-end research paper builder. Generates complete LaTeX papers with 200+ real bibliography entries, publication-grade figures, and quality gates.",
+      "version": "1.0.0",
+      "category": "science",
+      "source": "./skills/paper-writer",
+      "homepage": "https://github.com/CHENDONALD/ai4s-skills",
+      "skills": [
+        "./"
+      ],
+      "strict": false
+    },
+    {
+      "name": "ai4s-skills-research-explorer",
+      "description": "Research direction and topic exploration for AI4Science workflows.",
+      "version": "1.0.0",
+      "category": "science",
+      "source": "./skills/research-explorer",
+      "homepage": "https://github.com/CHENDONALD/ai4s-skills",
+      "skills": [
+        "./"
+      ],
+      "strict": false
+    },
+    {
+      "name": "ai4s-skills-literature-survey",
+      "description": "Literature survey and bibliography building for AI4Science workflows.",
+      "version": "1.0.0",
+      "category": "science",
+      "source": "./skills/literature-survey",
+      "homepage": "https://github.com/CHENDONALD/ai4s-skills",
+      "skills": [
+        "./"
+      ],
+      "strict": false
+    },
+    {
+      "name": "ai4s-skills-experiment-suite",
+      "description": "Experiment execution and results generation for AI4Science workflows.",
+      "version": "1.0.0",
+      "category": "science",
+      "source": "./skills/experiment-suite",
+      "homepage": "https://github.com/CHENDONALD/ai4s-skills",
+      "skills": [
+        "./"
+      ],
+      "strict": false
+    },
+    {
+      "name": "ai4s-skills-ai4s-agent",
+      "description": "Master orchestrator that coordinates the full AI4Science pipeline: research-explorer → literature-survey → experiment-suite → paper-writer.",
+      "version": "1.0.0",
+      "category": "science",
+      "source": "./skills/ai4s-agent",
+      "homepage": "https://github.com/CHENDONALD/ai4s-skills",
+      "skills": [
+        "./"
+      ],
+      "strict": false
+    },
+    {
+      "name": "ai4s-skills-integrity-auditor",
+      "description": "Integrity auditing for research workflows.",
+      "version": "1.0.0",
+      "category": "science",
+      "source": "./skills/integrity-auditor",
+      "homepage": "https://github.com/CHENDONALD/ai4s-skills",
+      "skills": [
+        "./"
+      ],
+      "strict": false
+    },
+    {
+      "name": "ai4s-skills-mindmap-render",
+      "description": "Mind map rendering for research visualization.",
+      "version": "1.0.0",
+      "category": "science",
+      "source": "./skills/mindmap-render",
+      "homepage": "https://github.com/CHENDONALD/ai4s-skills",
+      "skills": [
+        "./"
+      ],
+      "strict": false
+    }
+  ]
+}

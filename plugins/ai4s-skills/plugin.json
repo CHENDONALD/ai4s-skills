@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "ai4s-skills",
+  "description": "AI4Science end-to-end research pipeline: topic exploration, literature survey, experiments, paper writing, and integrity audit."
+}
