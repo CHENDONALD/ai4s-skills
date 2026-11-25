@@ -1,7 +1,7 @@
 {
   "name": "ai4s-skills",
-  "version": "1.0.0-fork.1",
-  "description": "AI4Science end-to-end research pipeline: topic exploration → literature survey → experiment execution → paper writing.",
+  "version": "1.0.1",
+  "description": "AI4Science end-to-end research pipeline: topic exploration \u2192 literature survey \u2192 experiment execution \u2192 paper writing.",
   "skills": [
     "./skills/agent",
     "./skills/experiment-suite",
@@ -10,5 +10,11 @@
     "./skills/mindmap-render",
     "./skills/paper-writer",
     "./skills/research-explorer"
-  ]
+  ],
+  "upstream": {
+    "repo": "ai4s-research/ai4s-skills",
+    "version": "0.1.0",
+    "mergedAt": "2026-11-25",
+    "note": "orphan fork"
+  }
 }
